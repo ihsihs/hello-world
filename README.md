@@ -1,2 +1,3 @@
 # hello-world
-Just another repository
+
+New in the world of programming. Hello World!
